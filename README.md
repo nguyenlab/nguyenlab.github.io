@@ -36,7 +36,7 @@ The navigation bar contain two level as shown in the image, please carefully rea
 
 Duplicate (do not uncomment the instruction line) the "commented" line of the appropriate level, then edit the `href` attribute which links to your HTML file.
 
-> **This part require you a base knowledge of HTML, make sure what you commit.**
+> **This part requires a base knowledge of HTML, make sure what you commit.**
 
 > Edit this file https://github.com/nguyenlab/nguyenlab.github.io/blob/master/template/body.html
 
