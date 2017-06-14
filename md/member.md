@@ -1,7 +1,7 @@
 <markdown>
 ## Professor
 
-[Nguyen Le Minh](/nguyenlab/member/professor.html)
+[Nguyen Le Minh](https://nguyenlab.github.io/member/professor.html)
 
 ## Postdoc
 Nomura Shoshin (2017)
@@ -13,7 +13,7 @@ Nomura Shoshin (2017)
 ## Master
 - Tran Xuan Chien
 - Pham Trung Tin
-- [Lai Dac Viet](/nguyenlab/member/lai-dac-viet.html)
+- [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
 
 ## Alumi
 - Ong Xuan Hong (Msc)
