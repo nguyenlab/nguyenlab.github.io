@@ -27,8 +27,19 @@ Homepage HTML
 
 ## How to edit
 
+### Create a new .md file
+    Duplicate any .md file in /md/
+    Rename your file such that it is unique and the name should be related to the content. Ex: your name...
+    Edit content of your .md file
+
 ### Create a new page
-To-be-written
+    Duplicate any HTML file in /member/ or /section/ corresponding to your purpose.
+    Edit line 22 of that file that refer to you
+
+```
+data = loadPage('https://nguyenlab.github.io/md/alumi.md');
+
+```
 
 ### Link the page to navigation bar
 To-be-written
