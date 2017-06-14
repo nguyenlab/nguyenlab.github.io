@@ -24,7 +24,7 @@ Edit content of your .md file
 ### Create a new page
 Duplicate any HTML file in **/member/** or **/section/** corresponding to your purpose.
 
-Edit the link in **line 22** of your HTML file, this should link to your **.md** file that you have just created.
+Edit the link in **line 22** of your HTML file, this should link to your **.md** file that you have just created. Line 22 looks like this:
 
 > data = loadPage('https://nguyenlab.github.io/md/alumi.md');
 
