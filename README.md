@@ -14,7 +14,7 @@ Directory | Purpose|
 
 ## How to edit
 
-### Create a new .md file
+### Prepare your content in a new .md file
 If you have never work with **markdown** file, please read [this guideline](https://guides.github.com/features/mastering-markdown/) first
 
 Duplicate any .md file in **/md/**
