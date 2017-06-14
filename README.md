@@ -1,28 +1,28 @@
-# Official website of Nguyen Laboratory - Japan Advanced Institute of Science & Technology, Japan
-
+Official website of Nguyen Laboratory - Japan Advanced Institute of Science & Technology, Japan
+======================================
 ## Structure
-- /css/   
+/css/   
 All style sheets, for ordinary member, you should not modify content in this directory
 
-- /img/   
+/img/   
 Image should be put here
 
-- /js/    
+/js/    
 Javascript source code
 
-- /md/    
+/md/    
 All the content of the site is written in "markdown" format.
 
-- /member/   
+/member/   
 All HTML pages of lab's members
 
-- /section/   
+/section/   
 All other HTML pages exclude
 
-- /template/  
+/template/  
 Every pages of this site are built from the template in this directory
 
-- index.html 
+/index.html         
 Homepage HTML
 
 ## How to edit
