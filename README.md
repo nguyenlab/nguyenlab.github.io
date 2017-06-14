@@ -15,6 +15,8 @@ Directory | Purpose|
 ## How to edit
 
 ### Create a new .md file
+If you have never work with **markdown** file, please read [this guideline](https://guides.github.com/features/mastering-markdown/) first
+
 Duplicate any .md file in **/md/**
 
 Rename your file such that it is unique and the name should be related to the content. Ex: your name...
