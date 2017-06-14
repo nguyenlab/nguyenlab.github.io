@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="/nguyenlab/js/jquery.js"></script>
+        <script src="https://nguyenlab.github.io/js/jquery.js"></script>
         <script type="text/javascript">
             $(document).ready(function (e) {
                 function loadPage(href)
@@ -14,14 +14,14 @@
                     return xmlhttp.responseText;
                 }
 
-                $("head").load('/nguyenlab/template/head.html', function () {
+                $("head").load('https://nguyenlab.github.io/template/head.html', function () {
                     //alert('loaded head')
                 });
 
-                $("body").load('/nguyenlab/template/body.html', function () {
-                    data = loadPage('/nguyenlab/md/master.md');
+                $("body").load('https://nguyenlab.github.io/template/body.html', function () {
+                    data = loadPage('https://nguyenlab.github.io/md/master.md');
                     document.getElementById('markdown-text').innerHTML = data;
-                    $.getScript("/nguyenlab/js/tagdown.min.js");
+                    $.getScript("https://nguyenlab.github.io/js/tagdown.min.js");
                 });
 
             });
