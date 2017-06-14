@@ -1,8 +1,7 @@
 # This is a official website of Nguyen Laboratory 
+# Japan Advanced Institute of Science & Technology, Japan
 
-Japan Advanced Institute of Science & Technology, Japan
-
-====================================================================================
+==============================================================================
 
 ## How to edit
 
