@@ -1,6 +1,8 @@
 <markdown>
 # Nguyen Le Minh
 
+![Image](/img/prof.jpg)
+
 ## Associate Professor 
 - School of Information Science, Intelligent Robotics Area 
 - Japan Advanced Institute of Science & Technology, Japan
