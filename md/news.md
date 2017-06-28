@@ -1,7 +1,7 @@
 <markdown>
 # News
 
-### Tran Xuan Chien got best student award from JAIST
+### Tran Xuan Chien achieved best student award 
 ![Image](img/2017-tran-xuan-chien-best-student-award.jpg)
 
 
