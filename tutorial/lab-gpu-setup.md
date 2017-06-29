@@ -6,6 +6,11 @@ libcupti | /usr/local/cuda-8.0/extras/CUPTI/lib64
 Anaconda 2 | /usr/local/anaconda2
 Intel MKL | /opt/intel/mkl
 
+
+# Contents
+
+- [Create]()
+    
 #  Create new user 
 ## On Ubuntu 16.04 LTS
 ``` 
@@ -82,11 +87,11 @@ mkdir $HOME/jaist
 Finally, login lab's computer using ``nguyenlab`` account and mount JAIST drive on lab's server
 
 ``` 
-sudo mount -t cifs -o domain=ad,username=<your-student-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> <storage-path> <mount-point>
+sudo mount -t cifs -o domain=ad,username=<your-student-id>,uid=<the-user-id-in-prev-step> <storage-path> <mount-point>
 ```
 
 Example:
 
 ``` 
-sudo mount -t cifs -o domain=ad,username=s1610xxx,password=<my-secret-password>,uid=10xx //s1604.jaist.ac.jp/s1604/s1610xxx /home/my_account/jaist
+sudo mount -t cifs -o domain=ad,username=s1610xxx,uid=10xx //s1604.jaist.ac.jp/s1604/s1610xxx /home/my_account/jaist
 ```
