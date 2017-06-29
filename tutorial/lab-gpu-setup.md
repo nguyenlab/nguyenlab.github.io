@@ -47,7 +47,7 @@ First using SSH login to JAIST high performance computer such as HPCC, UV and ru
 ``` 
 mount | grep <your-student-id>
 ```
-The output may look like this pattern:
+The output may look like these patterns:
 
 ```
 fs003:/volumes/vol03/fs0035/s1510xxx on /home/s1510xxx
@@ -62,7 +62,7 @@ Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of t
 Example:
 
 ```
-//s1605.jaist.ac.jp/s1605/s1610xxx/
+//s1605.jaist.ac.jp/s1604/s1610xxx/
 ```
 
 ## Obtain the user id (uid) on lab's computer & create mount point
