@@ -49,19 +49,15 @@ mount | grep <your-student-id>
 ```
 The output may look like this:
 
-``` 
-<IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
-```
+> <IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
+
 Look at the directory, you can see "s1605" is the hostname of the storage server. So the "storage path" of your directory should be: 
-```
-<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
-```
+> //<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+
 
 Example:
 
-```
-s1605.jaist.ac.jp/s1605/s1610xxx/
-```
+> //s1605.jaist.ac.jp/s1605/s1610xxx/
 
 ## Obtain the user id (uid) on lab's computer & create mount point
 Secondly, user ID is a 4-character integer number. To check the user id on linux system, login to lab's computer using your own account and run following command and capture the "uid" value
@@ -79,7 +75,7 @@ mkdir $HOME/jaist
 Finally, login lab's computer using "nguyenlab" account and mount JAIST drive on lab's server
 
 ``` 
-sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> //s1605.jaist.ac.jp/s1605/s1610204 ~/jaist
+sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> <storage-path> ~/jaist
 ```
 
 Example:
