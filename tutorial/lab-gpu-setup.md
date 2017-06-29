@@ -50,9 +50,10 @@ mount | grep <your-student-id>
 The output may look like this pattern:
 
 ```
-<IP-ADDRESS>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
+fs003:/volumes/vol03/fs0035/s1510006 on /home/s1510006
+150.65.213.78:/ifs/home/s1604/s1610059 on /home/s1610059
 ```
-Look at the directory, you can see "s1605" is the hostname of the storage server. So the "storage path" of your directory should be: 
+Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of the storage server. So the ``storage path`` of your directory should be: 
 
 ```
 //<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
@@ -77,7 +78,7 @@ mkdir $HOME/jaist
 
 ## Mount 
 
-Finally, login lab's computer using "nguyenlab" account and mount JAIST drive on lab's server
+Finally, login lab's computer using ``nguyenlab`` account and mount JAIST drive on lab's server
 
 ``` 
 sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> <storage-path> ~/jaist
