@@ -1,4 +1,3 @@
-<markdown>
 #  Available libraries
     
   - cuda & cudnn     /usr/local/cuda-8.0/lib64
@@ -47,17 +46,22 @@ First using SSH login to JAIST high performance computer such as HPCC, UV and ru
 ``` 
 mount | grep <your-student-id>
 ```
-The output may look like this:
+The output may look like this pattern:
 
-> <IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
-
+```
+<IP-ADDRESS>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
+```
 Look at the directory, you can see "s1605" is the hostname of the storage server. So the "storage path" of your directory should be: 
-> //<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
 
+```
+//<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+```
 
 Example:
 
-> //s1605.jaist.ac.jp/s1605/s1610xxx/
+```
+//s1605.jaist.ac.jp/s1605/s1610xxx/
+```
 
 ## Obtain the user id (uid) on lab's computer & create mount point
 Secondly, user ID is a 4-character integer number. To check the user id on linux system, login to lab's computer using your own account and run following command and capture the "uid" value
@@ -83,5 +87,3 @@ Example:
 ``` 
 sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/vietld/jaist
 ```
-
-</markdown>
