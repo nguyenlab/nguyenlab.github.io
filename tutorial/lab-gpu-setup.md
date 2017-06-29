@@ -84,7 +84,7 @@ mkdir $HOME/jaist
 
 ## Mount 
 
-Finally, login lab's computer using ``nguyenlab`` account and mount JAIST drive on lab's server
+Finally, login lab's computer using **ngyenlab** account and mount JAIST drive on lab's server
 
 ``` 
 sudo mount -t cifs -o domain=ad,username=<your-student-id>,uid=<the-user-id-in-prev-step> <storage-path> <mount-point>
