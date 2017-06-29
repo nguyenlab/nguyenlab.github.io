@@ -1,9 +1,10 @@
 #  Available libraries
-    
-  - cuda & cudnn     /usr/local/cuda-8.0/lib64
-  - libcupti         /usr/local/cuda-8.0/extras/CUPTI/lib64
-  - Anaconda 2       /usr/local/anaconda2
-  - Intel MKL        /opt/intel/mkl
+Library | Directory
+--- | ---
+cuda & cudnn | /usr/local/cuda-8.0/lib64
+libcupti | /usr/local/cuda-8.0/extras/CUPTI/lib64
+Anaconda 2 | /usr/local/anaconda2
+Intel MKL | /opt/intel/mkl
 
 #  Create new user 
 ## On Ubuntu 16.04 LTS
