@@ -1,3 +1,4 @@
+<markdown>
 #  Available libraries
     
   - cuda & cudnn     /usr/local/cuda-8.0/lib64
@@ -6,20 +7,29 @@
   - Intel MKL        /opt/intel/mkl
 
 #  Create new user 
-### On Ubuntu 16.04 LTS
-> sudo adduser <your-username> --ingroup student
-### On CentOS 7
-> sudo adduser <your-username> --gid student
-
+## On Ubuntu 16.04 LTS
+``` 
+sudo adduser <your-username> --ingroup student
+```
+## On CentOS 7
+``` 
+sudo adduser <your-username> --gid student
+```
 #  Clone python environment
 
-> cd $HOME
-# For python 2.7
-> conda create --name py27 python=2.7
-> source activate py27
-# For python 3.5
-> conda create --name py35 python=3.5
+```
+cd $HOME
+```
+### For python 2.7
+``` 
+conda create --name py27 python=2.7
+source activate py27
+```
+### For python 3.5
+``` 
+conda create --name py35 python=3.5
 source activate py35
+```
 
 
 # Mount JAIST Storage
@@ -34,30 +44,48 @@ Please perform step by step:
 ## Identify storage path
 First using SSH login to JAIST high performance computer such as HPCC, UV and run following command:
 
-> mount | grep <your-student-id>
-
+``` 
+mount | grep <your-student-id>
+```
 The output may look like this:
 
-> <IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
-
-Look at the directory, you can see "s1605" is the hostname of the storage server. So the "mount path" of your directory should be: 
-> <storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+``` 
+<IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
+```
+Look at the directory, you can see "s1605" is the hostname of the storage server. So the "storage path" of your directory should be: 
+```
+<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+```
 
 Example:
 
-> s1605.jaist.ac.jp/s1605/s1610xxx/
+```
+s1605.jaist.ac.jp/s1605/s1610xxx/
+```
 
+## Obtain the user id (uid) on lab's computer & create mount point
 Secondly, user ID is a 4-character integer number. To check the user id on linux system, login to lab's computer using your own account and run following command and capture the "uid" value
 
-> id | grep uid
-
+``` 
+id | grep uid
+```
 Then create a mount point directory:
-> mkdir $HOME/jaist
+```
+mkdir $HOME/jaist
+```
+
+## Mount 
 
 Finally, login lab's computer using "nguyenlab" account and mount JAIST drive on lab's server
 
-> sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> //s1605.jaist.ac.jp/s1605/s1610204 ~/jaist
+``` 
+sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> //s1605.jaist.ac.jp/s1605/s1610204 ~/jaist
+```
 
 Example:
 
-> sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/vietld/jaist
+``` 
+sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/vietld/jaist
+```
+
+</markdown>
