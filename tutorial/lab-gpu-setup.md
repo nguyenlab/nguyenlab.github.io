@@ -5,11 +5,6 @@ cuda & cudnn | /usr/local/cuda-8.0/lib64
 libcupti | /usr/local/cuda-8.0/extras/CUPTI/lib64
 Anaconda 2 | /usr/local/anaconda2
 Intel MKL | /opt/intel/mkl
-
-
-# Contents
-
-- [Create]()
     
 #  Create new user 
 ## On Ubuntu 16.04 LTS
@@ -55,10 +50,9 @@ mount | grep <your-student-id>
 The output may look like these patterns:
 
 ```
-fs003:/volumes/vol03/fs0035/s1510xxx on /home/s1510xxx
 150.65.xxx.xxx:/ifs/home/s1604/s1610xxx on /home/s1610xxx
 ```
-Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of the storage server. So the ``storage path`` of your directory has following pattern and will be used in the point
+Look at the directory, you can see ``s1604`` is the hostname of the storage server. So the ``storage path`` of your directory has following pattern and will be used in the point
 
 ```
 //<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
@@ -68,7 +62,6 @@ Example:
 
 ```
 //s1604.jaist.ac.jp/s1604/s1610xxx/
-//fs0035.jaist.ac.jp/fs0035/s1610xxx/
 ```
 
 ## Obtain the user id (uid) on lab's computer & create mount point
