@@ -62,7 +62,7 @@ Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of t
 Example:
 
 ```
-//s1605.jaist.ac.jp/s1604/s1610xxx/
+//s1604.jaist.ac.jp/s1604/s1610xxx/
 ```
 
 ## Obtain the user id (uid) on lab's computer & create mount point
@@ -87,5 +87,5 @@ sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-passwo
 Example:
 
 ``` 
-sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1604/s1610xxx /home/my_account/jaist
+sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1604.jaist.ac.jp/s1604/s1610xxx /home/my_account/jaist
 ```
