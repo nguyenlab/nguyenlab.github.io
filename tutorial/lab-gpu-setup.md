@@ -50,8 +50,8 @@ mount | grep <your-student-id>
 The output may look like this pattern:
 
 ```
-fs003:/volumes/vol03/fs0035/s1510006 on /home/s1510006
-150.65.213.78:/ifs/home/s1604/s1610059 on /home/s1610059
+fs003:/volumes/vol03/fs0035/s1510xxx on /home/s1510xxx
+150.65.xxx.xxx:/ifs/home/s1604/s1610xxx on /home/s1610xxx
 ```
 Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of the storage server. So the ``storage path`` of your directory should be: 
 
