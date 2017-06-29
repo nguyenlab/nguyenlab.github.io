@@ -16,7 +16,9 @@ sudo adduser <your-username> --gid student
 ```
 #  Clone python environment
 
-> cd $HOME
+```
+cd $HOME
+```
 ### For python 2.7
 ``` 
 conda create --name py27 python=2.7
@@ -50,7 +52,9 @@ The output may look like this:
 <IP-ADDR>:/ifs/home/s1605/<your-student-id> on /home/<your-student-id>
 ```
 Look at the directory, you can see "s1605" is the hostname of the storage server. So the "storage path" of your directory should be: 
-> <storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+```
+<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
+```
 
 Example:
 
