@@ -1,3 +1,4 @@
+<markdown>
 #  Available libraries
     
   - cuda & cudnn     /usr/local/cuda-8.0/lib64
@@ -87,3 +88,4 @@ Example:
 sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/vietld/jaist
 ```
 
+</markdown>
