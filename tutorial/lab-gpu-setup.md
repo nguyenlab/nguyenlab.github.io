@@ -53,7 +53,7 @@ The output may look like these patterns:
 fs003:/volumes/vol03/fs0035/s1510xxx on /home/s1510xxx
 150.65.xxx.xxx:/ifs/home/s1604/s1610xxx on /home/s1610xxx
 ```
-Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of the storage server. So the ``storage path`` of your directory should be: 
+Look at the directory, you can see ``s1604`` and ``fs0035`` is the hostname of the storage server. So the ``storage path`` of your directory has following pattern and will be used in the point
 
 ```
 //<storage-hostname>.jaist.ac.jp/<storage-hostname>/<your-student-id>/
@@ -63,6 +63,7 @@ Example:
 
 ```
 //s1604.jaist.ac.jp/s1604/s1610xxx/
+//fs0035.jaist.ac.jp/fs0035/s1610xxx/
 ```
 
 ## Obtain the user id (uid) on lab's computer & create mount point
@@ -71,7 +72,7 @@ Secondly, user ID is a 4-character integer number. To check the user id on linux
 ``` 
 id | grep uid
 ```
-Then create a mount point directory:
+Then create a ``mount point`` directory:
 ```
 mkdir $HOME/jaist
 ```
@@ -81,7 +82,7 @@ mkdir $HOME/jaist
 Finally, login lab's computer using ``nguyenlab`` account and mount JAIST drive on lab's server
 
 ``` 
-sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> <storage-path> ~/jaist
+sudo mount -t cifs -o username=<your-student-id>,password=<your-jaist-mail-password>,uid=<the-user-id-in-prev-step> <storage-path> <mount-point>
 ```
 
 Example:
