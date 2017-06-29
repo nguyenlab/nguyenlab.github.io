@@ -87,5 +87,5 @@ sudo mount -t cifs -o username=<your-studen-id>,password=<your-jaist-mail-passwo
 Example:
 
 ``` 
-sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/vietld/jaist
+sudo mount -t cifs -o username=s1610xxx,password=<my-secret-password>,uid=10xx //s1605.jaist.ac.jp/s1605/s1610xxx /home/my_account/jaist
 ```
