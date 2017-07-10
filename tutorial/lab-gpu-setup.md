@@ -43,7 +43,7 @@ mount /home/some-account/jaist
 
 # Mount JAIST Cluster /work directory
 ```
-sshfs <studen-id>@<cluster-name>:/work/your-directory <mount-point>
+sshfs <student-id>@<cluster-name>:/work/your-directory <mount-point>
 ```
 Example:
 ```
