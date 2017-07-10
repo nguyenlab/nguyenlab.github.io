@@ -41,3 +41,14 @@ Then, assume your mount point is ``/home/some-account/jaist``, simply run follow
 mount /home/some-account/jaist
 ```
 
+# Mount JAIST Cluster /work directory
+```
+sshfs <studen-id>@<cluster-name>:/work/your-directory <mount-point>
+```
+Example:
+```
+sshfs s161xxx@uv:/work/s1610204 /home/your-account/uv
+```
+
+
+
