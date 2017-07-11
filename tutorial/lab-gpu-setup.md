@@ -47,7 +47,7 @@ sshfs <student-id>@<cluster-name>:/work/your-directory <mount-point>
 ```
 Example:
 ```
-sshfs s161xxx@uv:/work/s1610204 /home/your-account/uv
+sshfs s161xxxx@uv:/work/s161xxxx /home/your-account/uv
 ```
 
 
