@@ -7,6 +7,7 @@ Anaconda 2 | /usr/local/anaconda2
 Intel MKL | /opt/intel/mkl
     
 #  Create new user 
+``Note:`` This part requires admin privileges
 ## On Ubuntu 16.04 LTS
 ``` 
 sudo adduser <your-username> --ingroup student
@@ -17,18 +18,24 @@ sudo adduser <your-username> --gid student
 ```
 #  Clone python environment
 
-```
-cd $HOME
-```
 ### For python 2.7
 ``` 
+cd $HOME
 conda create --name py27 python=2.7
-source activate py27
 ```
+Then append following line to the ``~/.bashrc`` file before logging out and re-logging in:
+```
+export PATH=$HOME/.conda/envs/py27/bin/:$PATH
+```
+
 ### For python 3.5
 ``` 
+cd $HOME
 conda create --name py35 python=3.5
-source activate py35
+```
+Then append following line to the ``~/.bashrc`` file before logging out and re-logging in:
+```
+export PATH=$HOME/.conda/envs/py35/bin/:$PATH
 ```
 
 
