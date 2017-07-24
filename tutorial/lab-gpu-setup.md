@@ -72,14 +72,14 @@ Nvidia Management Interface (nvidia-smi) | Operating System ($CUDA_VISIBLE_DEVIC
 nvidia-smi
 ```
 
-- To run on a single GPU, set the $CUDA_VARIABLE_DEVICES with the index of the GPU, example: 
+- To run on a single GPU, set the $CUDA_VISIBLE_DEVICES with the index of the GPU, example: 
 ```
-export CUDA_VARIABLE_DEVICES="1"
+export CUDA_VISIBLE_DEVICES="1"
 ```
 
-- To run on multiple GPUs,  set the $CUDA_VARIABLE_DEVICES with the indexs of the GPUs (separated by comma), example:
+- To run on multiple GPUs,  set the $CUDA_VISIBLE_DEVICES with the indexs of the GPUs (separated by comma), example:
 ```
-export CUDA_VARIABLE_DEVICES="2,3"
+export CUDA_VISIBLE_DEVICES="2,3"
 ```
 
 
