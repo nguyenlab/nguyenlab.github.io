@@ -57,7 +57,7 @@ Example:
 sshfs s161xxxx@uv:/work/s161xxxx /home/your-account/uv
 ```
 
-# How to manipulate GPUs
+# Manipulate multiple GPUs
 There are 4 GPUS in our server, they are indexed differently by two system. One is the ``nvidia-smi`` command, other is the operating system through a variable named ``CUDA_VISIBLE_DEVICES``. Here are the mapping table among these two systems:
 
 Nvidia Management Interface (nvidia-smi) | Operating System ($CUDA_VISIBLE_DEVICES)
