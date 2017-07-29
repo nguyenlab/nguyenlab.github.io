@@ -7,6 +7,7 @@
 
 ## Education
     PhD Student: October 2014 to present
+    
     Japan Advanced Institute of Science and Technology
 
 <br />
@@ -23,9 +24,11 @@
 
 ### Teaching Assistant
 
-    1. Natural Language Processing course
+    Natural Language Processing course: summer 2015 (June-August)
     
-    2. Logical Inference and Knowledge Representation course
+    Logical Inference and Knowledge Representation course: Winter 2015 (December-February)
+    
+    Logical Inference and Knowledge Representation course: Winter 2014 (December-February)
 
 
 ## Publications
