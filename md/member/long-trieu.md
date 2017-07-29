@@ -9,6 +9,8 @@
     PhD Student: October 2014 to present
     Japan Advanced Institute of Science and Technology
 
+<br />
+
 ## Research Topics
 
     - Natural Language Processing
