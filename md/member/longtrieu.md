@@ -2,8 +2,8 @@
 <markdown>
 # Long Trieu
 
-## Degree
-- PhD Student
+## PhD Student
+- October 2014 to present
 
 ## Publications
 
