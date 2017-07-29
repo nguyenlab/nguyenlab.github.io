@@ -5,6 +5,10 @@
 
 ![Image](/img/long-trieu.jpg)
 
+
+trieulh at jaist dot ac dot jp
+
+
 ## Education
     PhD Student: October 2014 to present
     
