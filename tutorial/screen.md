@@ -16,7 +16,7 @@ screen -x <screen-session-name>
 Ctrl+A+D
 ```
 
-## Terminate the attacched session
+## Terminate the attached session
 ```
 Ctrl + D
 ```
