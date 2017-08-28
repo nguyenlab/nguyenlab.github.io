@@ -1,7 +1,8 @@
 #  Available libraries
 Library | Directory
 --- | ---
-cuda & cudnn | /usr/local/cuda-8.0/lib64
+cuda | /usr/local/cuda-8.0/lib64
+cudnn | /usr/local/cudnn/cudnnv5.1/lib64
 libcupti | /usr/local/cuda-8.0/extras/CUPTI/lib64
 Anaconda 2 | /usr/local/anaconda2
 Intel MKL | /opt/intel/mkl
@@ -81,9 +82,3 @@ export CUDA_VISIBLE_DEVICES="1"
 ```
 export CUDA_VISIBLE_DEVICES="2,3"
 ```
-
-
-
-
-
-
