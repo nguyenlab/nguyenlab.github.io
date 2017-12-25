@@ -35,7 +35,7 @@ October, 2014 - 2017
 
 ## Publications
 
-- [Long Trieu, Le Minh Nguyen, *A Multilingual Parallel Corpus for Improving Machine Translation on Southeast Asian Languages*, The Machine Translation Summit XVI, International Association for Machine Translation, Nagoya Japan, 2017] (http://aamt.info/app-def/S-102/mtsummit/2017/research-track/)
+- [Long Trieu, Le Minh Nguyen, *A Multilingual Parallel Corpus for Improving Machine Translation on Southeast Asian Languages*, The Machine Translation Summit XVI, International Association for Machine Translation, Nagoya Japan, 2017](http://aamt.info/app-def/S-102/mtsummit/2017/research-track/)
     
 - Long Trieu, Minh Le Nguyen, *Investigating Phrase-Based and Neural-Based Machine Translation on Low-Resource Settings*, The 31st Pacific Asia Conference on Language, Information and Computation, Cebu Philippines, 2017
     
