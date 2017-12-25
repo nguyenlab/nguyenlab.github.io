@@ -5,6 +5,8 @@
 - Andy Yang
 - Pham Trung Tin
 - [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
+- Le Thanh Tung
+- Vuong Thi Hai Yen
 
 ## Alumi
 - Tran Xuan Chien
