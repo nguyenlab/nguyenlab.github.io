@@ -7,6 +7,7 @@
 - Danilo Carvalho
 - Nguyen Truong Son
 - Tran Van Khanh
+- Tran Duc Vu
 - Nguyen Thanh Huy
 - Nguyen Tien Huy
 - Vu Trong Sinh
