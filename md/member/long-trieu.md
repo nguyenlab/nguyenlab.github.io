@@ -21,7 +21,9 @@ Email: trieulh@jaist.ac.jp
 
 ## Experience
 
-### Research Assistant: October, 2014 - present
+### Research Assistant
+
+October, 2014 - 2017
 
 ### Teaching Assistant
 
