@@ -2,6 +2,7 @@
 # Nguyen Le Minh
 
 ![Image](/img/prof.jpg)
+- Email: nguyenml@jaist.ac.jp
 
 ## Associate Professor 
 - School of Information Science, Intelligent Robotics Area 
@@ -37,7 +38,4 @@ Associate Professor
  
 - Awarded Japanese Government, Monbukagakusho Scholarship (2001-2004)
  
-
-
-
 </markdown>
