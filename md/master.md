@@ -2,7 +2,7 @@
 
 ## Active
 - Tanaka Ryota
-- Andy Yang
+- Zhen Yang (Andy)
 - Pham Trung Tin
 - [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
 - Le Thanh Tung
