@@ -1,11 +1,12 @@
 <markdown>
 
+## PhD
+- [Long Trieu](https://nguyenlab.github.io/member/long-trieu.html)
+
 ## Master
 - Ong Xuan Hong
 - Do Khac Phong
+- Chau Ngoc Phuong
+- Tran Xuan Chien
 
-
-## Intern
-- Le Thanh Tung
-- Doan Xuan Dung
 </markdown>
