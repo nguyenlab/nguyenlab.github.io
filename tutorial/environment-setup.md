@@ -33,6 +33,7 @@ source activate py27
 
 ### For python 3.5
 ``` 
+cd $HOME
 conda create --name py35 python=3.5
 ```
 Activate the environment when you want to use it.
@@ -46,7 +47,6 @@ JAIST provides a huge storage capacity (about hundred of Terabytes) on their ser
 
 Then, assume your mount point is ``/home/some-account/jaist``, simply run following command:
 ```
-cd $HOME
 mount ~/jaist
 ```
 
