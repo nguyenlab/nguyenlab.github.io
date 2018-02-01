@@ -1,26 +1,29 @@
 # Set up environments for using GPUs
 
-## Set up CUDA and CuDNN libraries
+## Set up CUDA
 CUDA 8 
 
 ```
 export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64:$LD_LIBRARY_PATH
 ```
 
-CuDNN 5.1 (For pytorch, tensorflow 1.3 and older)
+CUDA 9 (updating)
+
+
+## Set up CuDNN
+
+CuDNN 5.1 (For pytorch, tensorflow 1.2 and older)
 
 ```
 export LD_LIBRARY_PATH=/usr/local/cudnn/cudnnv5.1/lib64:$LD_LIBRARY_PATH
 ```
 
-CuDNN 6 (For tensorflow 1.4+)
-
+CuDNN 6 (For tensorflow 1.3, 1.4)
 ```
 export LD_LIBRARY_PATH=//usr/local/cudnn/cudnnv6/lib64:$LD_LIBRARY_PATH
 ```
 
-CuDNN 7 (For tensorflow 1.4+)
-
+CuDNN 7 (For tensorflow 1.5)
 ```
 export LD_LIBRARY_PATH=//usr/local/cudnn/cudnnv7/lib64:$LD_LIBRARY_PATH
 ```
