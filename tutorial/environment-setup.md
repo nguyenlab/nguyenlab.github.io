@@ -47,7 +47,8 @@ JAIST provides a huge storage capacity (about hundred of Terabytes) on their ser
 
 Then, assume your mount point is ``/home/some-account/jaist``, simply run following command:
 ```
-mount /home/some-account/jaist
+cd $HOME
+mount ~/jaist
 ```
 
 # Mount JAIST Cluster /work directory
