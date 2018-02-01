@@ -2,7 +2,8 @@
 Library | Directory
 --- | ---
 cuda | /usr/local/cuda-8.0/lib64
-cudnn | /usr/local/cudnn/cudnnv5.1/lib64
+cudnn 5.1 | /usr/local/cudnn/cudnnv5.1/lib64
+cudnn 6 | /usr/local/cudnn/cudnnv6/lib64
 libcupti | /usr/local/cuda-8.0/extras/CUPTI/lib64
 Anaconda 2 | /usr/local/anaconda2
 Intel MKL | /opt/intel/mkl
@@ -38,8 +39,6 @@ Activate the environment when you want to use it.
 ```
 source activate py35
 ```
-
-
 
 # Mount JAIST Storage
 
