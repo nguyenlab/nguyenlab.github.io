@@ -29,7 +29,7 @@ export LD_LIBRARY_PATH=//usr/local/cudnn/cudnnv7/lib64:$LD_LIBRARY_PATH
 ```
 
 ## Manipulate multiple GPUs
-There are 4 GPUS in our server, they are indexed differently by two systems. One is the ``nvidia-smi`` command, other is the operating system through a variable named ``CUDA_VISIBLE_DEVICES``. Here are the mapping table among these two systems:
+There are 4 GPUs in our server, they are indexed differently by two systems. One is the ``nvidia-smi`` command, other is the operating system through a variable named ``CUDA_VISIBLE_DEVICES``. Here are the mapping table among these two systems:
 
 Nvidia Management Interface (nvidia-smi) | Operating System ($CUDA_VISIBLE_DEVICES)
 --- | ---
