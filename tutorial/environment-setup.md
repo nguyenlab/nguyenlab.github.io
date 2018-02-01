@@ -6,8 +6,8 @@ cudnn 5.1 | /usr/local/cudnn/cudnnv5.1/
 cudnn 6 | /usr/local/cudnn/cudnnv6/
 cudnn 7 | /usr/local/cudnn/cudnnv7/
 libcupti | /usr/local/cuda-8.0/extras/CUPTI/
-Anaconda 2 | /usr/local/anaconda2
-Intel MKL | /opt/intel/mkl
+Anaconda 2 | /usr/local/anaconda2/
+Intel MKL | /opt/intel/mkl/
     
 #  Create new user 
 ``Note:`` This part requires admin privileges
