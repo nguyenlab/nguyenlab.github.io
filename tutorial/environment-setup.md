@@ -33,7 +33,6 @@ source activate py27
 
 ### For python 3.5
 ``` 
-cd $HOME
 conda create --name py35 python=3.5
 ```
 Activate the environment when you want to use it.
