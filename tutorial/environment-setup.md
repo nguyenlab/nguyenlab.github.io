@@ -45,7 +45,7 @@ source activate py35
 
 JAIST provides a huge storage capacity (about hundred of Terabytes) on their server and luckily we can mount it on our server. Therefore your data is unified among JAIST clusters and any computers in laboratory 's servers. In order to mount, please consult Viet-san or Vu-san to set up.
 
-Then, assume your mount point is ``/home/some-account/jaist``, simply run following command:
+Mount the JAIST directory into your ``$HOME/jaist`` using password of your JAIST email.
 ```
 mount ~/jaist
 ```
