@@ -1,7 +1,6 @@
 # Set up environments for using GPUs
 
-## Set up variables
-
+## Set up CUDA and CuDNN libraries
 CUDA 8 
 
 ```
