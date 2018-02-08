@@ -1,6 +1,8 @@
 <markdown>
 # News
 
+### Nguyen Minh Tien finished his final defense! 
+(07/02/2018)
 ### Nguyen Lab at SCIDOCA 2017
 
 
