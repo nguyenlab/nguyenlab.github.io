@@ -14,6 +14,7 @@
 
 ## Alumni
 
-- [Long Trieu](https://nguyenlab.github.io/member/long-trieu.html)
+- [Long Trieu](https://nguyenlab.github.io/member/long-trieu.html) (Postdoc at AIR)
+- Le Thi Ngoc Tho 
 
 </markdown>
