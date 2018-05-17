@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://nguyenlab.github.io/js/jquery.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function (e) {
+                function loadPage(href)
+                {
+                    var xmlhttp = new XMLHttpRequest();
+                    xmlhttp.open("GET", href, false);
+                    xmlhttp.send();
+                    return xmlhttp.responseText;
+                }
+                $("head").load('https://nguyenlab.github.io/template/head.html', function () {
+                    //alert('loaded head')
+                });
+                $("body").load('https://nguyenlab.github.io/template/body.html', function () {
+                    data = loadPage('https://nguyenlab.github.io/md/member/long-trieu.md');
+                    document.getElementById('markdown-text').innerHTML = data;
+                    $.getScript("https://nguyenlab.github.io/js/tagdown.min.js");
+                });
+            });
+        </script>
+    </head>
+    <body>
+    </body>
+</html>
