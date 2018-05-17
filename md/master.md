@@ -5,7 +5,6 @@
 - Zhen Yang (Andy)
 - Pham Trung Tin
 - [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
-- Zhen Yang (Andy)
 - Le Thanh Tung
 - Vuong Thi Hai Yen
 
