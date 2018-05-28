@@ -1,11 +1,16 @@
 <markdown>
 ### News
 
-Two arctiles accepted for publishing on Information Processing and Managements(IPM) and  ACM Transactions on Knowledge Discovery from Data.
+### We got an acceptance for our COLING 2018 submission!
+### Anday and Royta san finished the presentations of their master thesis!  Congrutulation!
 
-Exploiting User Posts for Web Document Summarization (TKDD)  
+### Viet Anh-san, Danilo-san, Tien- san got Ph.D degrees.  Viet-san and Tin-san got their master degrees.
 
-Multilingual opinion mining on YouTube - A convolutional N-gram BiLSTM word embedding (IPM)
+#### Two arctiles accepted for publishing on Information Processing and Managements(IPM) and  ACM Transactions on Knowledge Discovery from Data.
+
+- Exploiting User Posts for Web Document Summarization (TKDD)  
+
+- Multilingual opinion mining on YouTube - A convolutional N-gram BiLSTM word embedding (IPM)
 
 ### Pham  Trung Tin  finished his master defense!
 
