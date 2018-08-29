@@ -1,6 +1,10 @@
 <markdown>
-### News
 
+
+### News
+One paper is presented in COLING 2018! Congruatulation Tran Van Khanh.
+Another paper is accepted in CoNLL 2018! Congruatulation to Tran Van Khanh.
+### News
 Two arctiles accepted for publishing on Information Processing and Managements(IPM) and  ACM Transactions on Knowledge Discovery from Data.
 
 Exploiting User Posts for Web Document Summarization (TKDD)  
