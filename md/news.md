@@ -1,6 +1,10 @@
 <markdown>
 ### News
 
+### Phan Viet Anh got his Ph.D degree (March 2018)
+
+### Nguyen Minh Tien got his Ph.D degree (March 2018)! 
+
 Two arctiles accepted for publishing on Information Processing and Managements(IPM) and  ACM Transactions on Knowledge Discovery from Data.
 
 Exploiting User Posts for Web Document Summarization (TKDD)  
