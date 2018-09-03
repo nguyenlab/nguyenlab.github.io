@@ -1,8 +1,8 @@
 <markdown>
   
 ### News
-### JAIST team got the highest rank on the compettion in legal text!  Congruatualation to Vu and Son.
-### Our lab in top conferences:  One Coling and one CoNLL paper are accepted!  Congruatualation to Khanh Tran Van. 
+JAIST team got the highest rank on the compettion in legal text!  Congruatualation to Vu and Son.
+Our lab in top conferences:  One Coling and one CoNLL paper are accepted!  Congruatualation to Khanh Tran Van. 
 ### Phan Viet Anh got his Ph.D degree (March 2018)
 
 ### Nguyen Minh Tien got his Ph.D degree (March 2018)! 
