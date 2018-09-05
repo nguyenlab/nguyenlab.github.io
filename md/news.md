@@ -1,8 +1,8 @@
 <markdown>
   
 ### News
-- One journal paper is accepted in Neural network Journal. (DGCNN: A Convolutional Neural Network over Large-scale Labeled Graphs Learning Systems). Congruatualation to Viet Anh!
-- JAIST team got the highest rank on the compettion in legal text!  Congruatualation to Vu and Son.
+- (05/09/2018) One journal paper is accepted in Neural network Journal. (DGCNN: A Convolutional Neural Network over Large-scale Labeled Graphs Learning Systems). Congruatualation to Viet Anh!
+- (01/09/2018) JAIST team got the highest rank on the compettion in legal text!  Congruatualation to Vu and Son.
 - Our lab in top conferences:  One Coling and one CoNLL paper are accepted!  Congruatualation to Khanh Tran Van. 
 - Phan Viet Anh got his Ph.D degree (March 2018)
 - Danilo S. Carvahol got his Ph.D degere (March 2018)
