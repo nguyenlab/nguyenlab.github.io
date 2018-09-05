@@ -8,27 +8,24 @@ Nomura Shoshin
 
 ## PhD
 
-- Nguyen Minh Tien (D3)
-- Phan Viet Anh(D3)
-- Danilo Carvalho (D3)
+
 - Nguyen Truong Son (D3)
 - Tran Van Khanh (D3)
 - Tran Duc Vu (D2)
-- Nguyen Thanh Huy (D2)
+- Nguyen Thanh Huy (D3)
 - Nguyen Tien Huy (D2)
 - Vu Trong Sinh (D1)
 - Nguyen Xuan Huy (D3)
 - Ito Yasuaki (D1)
+- May Mo Zin
 
 ## Master
-
-- Tanaka Ryota (M2)
-- Zhen Yang (Andy)(M2)
+- Lai Chenful (M2)
+- Dang Hoang Anh (M0)
 - Gao Yue (M1)
-- Pham Trung Tin (M2)
-- [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
 - Le Thanh Tung (M2)
 - Vuong Thi Hai Yen(M2)
+- Bui Minh Quan (M1)
 
 # Master in Tokyo Campus
 - Kumazawa Yuki(M2)
@@ -38,14 +35,23 @@ Nomura Shoshin
 - Yamato Hiroyuki (M1)
 
 # Research Students
-- Bui Minh Quan
+- Dang Hoang Anh
 
 ## Alumi
 - Le Thi Ngoc Tho
 - [Long Trieu](https://nguyenlab.github.io/member/long-trieu.html)
 - Ong Xuan Hong
-- Do Khac Phong
-- Chau Ngoc Phuong
-- Tran Xuan Chien
+- Do Khac Phong (Cococ- Vietnam)
+- Chau Ngoc Phuong (Ph.D student in EU)
+- Tran Xuan Chien (CEO a company in Vietnam)
+- Dr. Nguyen Minh Tien (Lecture Hung Yen Technical University, Vietnam)
+- Dr. Phan Viet Anh(Le Quy Don Univerisity, Vietnam)
+- Dr. Danilo Carvalho (Brazil)
+- Tanaka Ryota (Engineering Tokyo)
+- Zhen Yang (Andy)(China)
+- Pham Trung Tin (Ph.D student - Deakin University)
+- [Lai Dac Viet](https://nguyenlab.github.io/member/lai-dac-viet.html)
+- Quan Tran (USA)
+
 
 </markdown>
