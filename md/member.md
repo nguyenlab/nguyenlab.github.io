@@ -4,8 +4,8 @@
 [Nguyen Le Minh](https://nguyenlab.github.io/member/professor.html)
 
 ## Postdoc
-Nomura Shoshin
-Nguyen Minh Phuong
+- Nomura Shoshin
+- Nguyen Minh Phuong
 ## PhD
 - Bui Minh Quan
 - Nguyen Minh Chau
