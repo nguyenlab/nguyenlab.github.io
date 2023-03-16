@@ -2,12 +2,11 @@
 # Nguyen Le Minh
 
 ![Image](/img/prof.jpg)
-- Email: nguyenml@jaist.ac.jp
+- Email: x@jaist.ac.jp: x=nguyenml
 
-## Associate Professor 
-- School of Information Science, Intelligent Robotics Area 
-- Japan Advanced Institute of Science & Technology, Japan
-
+## Professor 
+- Director of Research Centre for Interpretable AI, JAIST
+- School of Information Science, Computing Science Research Area, Research Centre for Interpretable AI, JAIST
 ## Degree
 - BSc from Hanoi University of Science (1998).
 - Master degree from Vietnam National University, Hanoi (2002).
@@ -25,9 +24,11 @@ PhD Student in Horiguchi-Lab, School of Information Science, Japan Advanced Inst
 Postdoctoral Researcher in 21st century COE program, School of Information Science, Japan Advanced Institute of Science and Technology
 ### 2008- 2013
 Assistant Professor- School of Information Science, Japan Advanced Institute of Science and Technology
-### 2013- to date
+### 2013- 2020
 Associate Professor
 
+#### 2020-date
+  Professor 
 ## Honors and awards
 
 - The best paper award (NLP-KE 2012)
