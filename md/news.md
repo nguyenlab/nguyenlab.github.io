@@ -1,6 +1,7 @@
 <markdown>
   
 ### News
+- (Mar 16, 2023) The website of NguyenLab is at https://www.jaist.ac.jp/is/labs/nguyen-lab/home/
 - (05/09/2018) One journal paper is accepted in Neural network Journal. (DGCNN: A Convolutional Neural Network over Large-scale Labeled Graphs Learning Systems). Congruatualation to Viet Anh!
 - (01/09/2018) JAIST team got the highest rank on the compettion in legal text!  Congruatualation to Vu and Son.
 - Our lab in top conferences:  One Coling and one CoNLL paper are accepted!  Congruatualation to Khanh Tran Van. 
